@@ -1,7 +1,9 @@
 # Best Death Bowlers in IPL (2022–2024) – Tableau Visualization  
 
 ## 📌 Overview  
-This project analyzes the performance of bowlers in the death overs (16–20) across the last three IPL seasons (2022–2024). The analysis identifies the most effective death bowlers based on multiple performance metrics and presents the results in an interactive Tableau dashboard.  
+This project was created as part of my Sports Analytics internship at Infosys Springboard and Collearn.  
+It analyzes the performance of bowlers in the death overs (16–20) across the last three IPL seasons (2022–2024). The analysis identifies the most effective death bowlers based on multiple performance metrics and presents the results in an interactive Tableau dashboard.  
+ 
 
 ## 🎯 Objective  
 The death overs are crucial in determining the outcome of a T20 match. This project evaluates bowlers’ effectiveness in this phase by comparing:  
